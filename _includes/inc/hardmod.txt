@@ -56,7 +56,7 @@
 	Переключатель LOCK должен быть в открытом состоянии, если поставить защиту от записи, компьютер не увидит ваш переходник. Если вы потеряли переключатель LOCK на карте памяти, заклейте его скотчем. 
 	{: .notice--warning}
 
-    ![]({{ base_path }}/images/sd2hm.png){:target="_blank"}
+    ![]({{ base_path }}/3ds/images/sd2hm.png){:target="_blank"}
 	{: .text-center}
     {: .notice--info}
 

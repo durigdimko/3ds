@@ -33,9 +33,9 @@ location.href = 'https://vk.com/@vulpesvulpeos-spisok-homebrew-prilozhenii-dlya-
 
 ### Скрипты
 
-* [`cleanmaster.gm9`]({{ base_path }}/gm9_scripts/cleanmaster.gm9){:target="_blank"} - скрипт для установки Luma в CTRNAND и последующего ее запуска без карты памяти, совмещенный со скриптом очистки карты
-* [`uninstall_hax_retail_NEW.gm9`]({{ base_path }}/gm9_scripts/uninstall_hax_retail_NEW.gm9){:target="_blank"} - скрипт для удаления кастома в New 3DS/New 2DS
-* [`uninstall_hax_retail_OLD.gm9`]({{ base_path }}/gm9_scripts/uninstall_hax_retail_OLD.gm9){:target="_blank"} - скрипт для удаления кастома в Old 3DS/Old 2DS
+* [`cleanmaster.gm9`]({{ base_path }}/3ds/gm9_scripts/cleanmaster.gm9){:target="_blank"} - скрипт для установки Luma в CTRNAND и последующего ее запуска без карты памяти, совмещенный со скриптом очистки карты
+* [`uninstall_hax_retail_NEW.gm9`]({{ base_path }}/3ds/gm9_scripts/uninstall_hax_retail_NEW.gm9){:target="_blank"} - скрипт для удаления кастома в New 3DS/New 2DS
+* [`uninstall_hax_retail_OLD.gm9`]({{ base_path }}/3ds/gm9_scripts/uninstall_hax_retail_OLD.gm9){:target="_blank"} - скрипт для удаления кастома в Old 3DS/Old 2DS
 
 ### Украшалки 
 

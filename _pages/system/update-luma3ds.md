@@ -22,7 +22,7 @@ permalink: /update-luma3ds.html
 1. Зажмите кнопку {% include inc/btn.txt btn="SELECT" %} и, удерживая её, включите консоль
 1. Запустится меню конфигурации Luma3DS
 
-    ![]({{ base_path }}/images/screenshots/luma.png){:target="_blank"}
+    ![]({{ base_path }}/3ds/images/screenshots/luma.png){:target="_blank"}
 	{: .text-center}
     {: .notice--info}
 

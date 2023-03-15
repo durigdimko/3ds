@@ -43,7 +43,7 @@ permalink:  cheats.html
 	* Запустите **FBI**:
 		1. Зайдите в **FBI** > **Titles** и найдите установленную игру к которой вы собираетесь применить читы
 		1. Запишите или запомните Title ID игры, к которой вы собираетесь применить читы (выделите игру и ищите Title ID на верхнем экране)
-			![]({{ base_path }}/images/screenshots/addons/fbi_titleid.png){:target="_blank"}
+			![]({{ base_path }}/3ds/images/screenshots/addons/fbi_titleid.png){:target="_blank"}
 			{: .text-center}
 	* Запустите игру, для которой вы хотите использовать читы
 		1. Перейдите в меню Rosalina, нажатием сочетания кнопок {% include inc/btn.txt btn="L" %} + {% include inc/btn.txt btn="DOWN" %} + {% include inc/btn.txt btn="SELECT" %}
@@ -119,7 +119,7 @@ permalink:  cheats.html
 1. Зайдите в FBI > Titles и найдите установленную игру к которой вы собираетесь применить читы
 1. Запишите или запомните Title ID игры, к которой вы собираетесь применить читы (выделите игру и ищите Title ID на верхнем экране)
 
-	![]({{ base_path }}/images/screenshots/addons/fbi_titleid.png){:target="_blank"}
+	![]({{ base_path }}/3ds/images/screenshots/addons/fbi_titleid.png){:target="_blank"}
 	{: .text-center}
 
 1. Отключите приставку
@@ -167,7 +167,7 @@ permalink:  cheats.html
 1. Зайдите в FBI > Titles и найдите установленную игру к которой вы собираетесь применить читы
 1. Запишите или запомните Title ID игры, к которой вы собираетесь применить читы (выделите игру и ищите Title ID на верхнем экране)
 
-	![]({{ base_path }}/images/screenshots/addons/fbi_titleid.png){:target="_blank"}
+	![]({{ base_path }}/3ds/images/screenshots/addons/fbi_titleid.png){:target="_blank"}
 	{: .text-center}
 
 1. Отключите приставку

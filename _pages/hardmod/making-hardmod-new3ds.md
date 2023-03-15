@@ -19,31 +19,31 @@ permalink: making-hardmod-new3ds.html
 	**Примечание:** Винты не откручиваются полностью, они остаются прикрепленными к задней крышке. Открепите заднюю крышку, потянув её наверх.
 	{: .notice--info}
 
-    ![]({{ base_path }}/images/ifixit/new3ds/1.png){:target='_blank'}
+    ![]({{ base_path }}/3ds/images/ifixit/new3ds/1.png){:target='_blank'}
 	{: .text-center}
     {: .notice--info}
 	
 1. После этого вам необходимо вытащить батарею New 3DS. Открутите винты, удерживающие слот карты памяти (отмечены красным) и отсоедините картридер. Осторожно пинцетом уберите резиновые заглушки, под которыми так же находятся два винта (отмечены синим)
 
-    ![]({{ base_path }}/images/ifixit/new3ds/2.png){:target='_blank'}
+    ![]({{ base_path }}/3ds/images/ifixit/new3ds/2.png){:target='_blank'}
 	{: .text-center}
     {: .notice--info}
 
 1. Открутите винты, удерживающие крышку приставки
 
-    ![]({{ base_path }}/images/ifixit/new3ds/3.png){:target='_blank'}
+    ![]({{ base_path }}/3ds/images/ifixit/new3ds/3.png){:target='_blank'}
 	{: .text-center}
     {: .notice--info}
 
 1. Когда вы открутите все винты и начнете открывать крышку, вы увидите печатную плату (PCB), **НЕ ПРИМЕНЯЙТЕ СИЛУ ДЛЯ ОТКРЫТИЯ ПАНЕЛИ**. Под крышкой находятся три шлейфа. 
 
-    ![]({{ base_path }}/images/ifixit/new3ds/4.png){:target='_blank'}
+    ![]({{ base_path }}/3ds/images/ifixit/new3ds/4.png){:target='_blank'}
 	{: .text-center}
     {: .notice--info}
 	
 1. Открутите все винты и осторожно открепите защелку, которая удерживает шлейф аналога и аккуратно отложите его в сторону. Отсоедините отмеченные шлейфы. Особое внимание обратите на те, что отмечены зеленым - **защелки такой конструкции не нужно открывать!!** Просто вытащите шлейф пинцетом прямо из защелки. Обратно он вставляется сходным образом - просто вставьте и затолкните до упора. После, переверните плату.
 
-    ![]({{ base_path }}/images/ifixit/new3ds/6.png){:target='_blank'}
+    ![]({{ base_path }}/3ds/images/ifixit/new3ds/6.png){:target='_blank'}
 	{: .text-center}
     {: .notice--info}
 	
@@ -52,7 +52,7 @@ permalink: making-hardmod-new3ds.html
 {% capture notice-2 %}
 Вы будете паять близко к чипу NAND. Припаивать мы будем 4 основных контакта. **DAT0 (Data Zero)**, **CMD** и **GND (Ground или заземление)** находятся на нижней части платы. **CLK (CLOCK)** на противоположной. Землю будем монтировать к корпусу слота для картриджей.
 
-![]({{ base_path }}/images/ifixit/new3ds/new3ds_tp.png){:target='_blank'}
+![]({{ base_path }}/3ds/images/ifixit/new3ds/new3ds_tp.png){:target='_blank'}
 {: .text-center}
 
 {% endcapture %}

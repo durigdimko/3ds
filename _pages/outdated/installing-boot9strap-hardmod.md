@@ -79,7 +79,7 @@ permalink: installing-boot9strap-hardmod.html
 1. Вставьте припаянный переходник в кардридер и включите приставку. **КАРТРИДЕР ДОЛЖЕН БЫТЬ ОТКЛЮЧЕН ОТ КОМПЬЮТЕРА!!!**
 1. Оба экрана должны светиться синим
 
-    ![]({{ base_path }}/images/ifixit/bsod.jpg){:target="_blank"}
+    ![]({{ base_path }}/3ds/images/ifixit/bsod.jpg){:target="_blank"}
 	{: .text-center}
     {: .notice--info}
 

@@ -17,7 +17,7 @@
 
 После работы скрипта корень SD-карты будет выглядеть следующим образом: 
 
-![]({{ base_path }}/images/screenshots/final-file-layout.png){:target="_blank"}
+![]({{ base_path }}/3ds/images/screenshots/final-file-layout.png){:target="_blank"}
 {: .text-center}
 
 Можете удалить лишние файлы вручную, если таковые остались

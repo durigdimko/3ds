@@ -25,7 +25,7 @@ permalink:  clean_sd.html
   + Если Luma3DS 7.1, то у вас b9s 1.0 и нужно [обновить его до актуальной версии](updating-b9s){:target="_blank"}, затем вернитесь к текущей инструкции
   + Если версия Luma3DS выше, или равна 8.0, у вас b9s 1.2 или выше. Можете [обновить его до актуальной версии](updating-b9s){:target="_blank"}, если вы не знаете какая именно у вас стоит сейчас
 
-    ![]({{ base_path }}/images/screenshots/luma.png){:target="_blank"}
+    ![]({{ base_path }}/3ds/images/screenshots/luma.png){:target="_blank"}
 	{: .text-center}
     {: .notice--info}
 

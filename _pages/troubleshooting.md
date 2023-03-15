@@ -133,7 +133,7 @@ permalink: /troubleshooting.html
 
 {% spoiler Игры выкидывает с ошибкой %}
 
-![]({{ base_path }}/images/screenshots/error.png){:target="_blank"}
+![]({{ base_path }}/3ds/images/screenshots/error.png){:target="_blank"}
 {: .text-center}
 
 + Обратите внимание на значение строки **Exception type**. `data abort` и `prefetch abort` означают что точно проблемы с SD-картой. Скопируйте всю информацию со старой карты на новую, предварительно [отформатировав](clean_sd#ii-форматирование-sd-карты){:target="_blank"} новую SD-карту. 
@@ -177,7 +177,7 @@ permalink: /troubleshooting.html
   + Если Luma3DS 7.1, то у вас b9s 1.0 и нужно [обновить его до актуальной версии](updating-b9s){:target="_blank"}
   + Если версия Luma3DS выше, или равна 8.0, у вас b9s 1.2 или выше. Можете [обновить его до актуальной версии](updating-b9s){:target="_blank"}, если вы не знаете какая именно у вас стоит сейчас
 
-    ![]({{ base_path }}/images/screenshots/luma.png){:target="_blank"}
+    ![]({{ base_path }}/3ds/images/screenshots/luma.png){:target="_blank"}
 	{: .text-center}
     {: .notice--info}
 

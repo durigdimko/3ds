@@ -21,7 +21,7 @@ permalink: making-hardmod-new2dsxl.html
 Особое внимание обратите на шлейфы, что отмечены зеленым - **защелки такой конструкции не нужно открывать!!** Просто вытащите шлейф пинцетом прямо из защелки. Обратно он вставляется сходным образом - просто вставьте и затолкните до упора. 
 {: .notice--warning}
 
-![]({{ base_path }}/images/ifixit/new2dsxl/warning.png){:target='_blank'}
+![]({{ base_path }}/3ds/images/ifixit/new2dsxl/warning.png){:target='_blank'}
 {: .text-center}
 {: .notice--info}
 	
@@ -30,7 +30,7 @@ permalink: making-hardmod-new2dsxl.html
 {% capture notice-2 %}
 Припаивать мы будем 4 основных контакта. **DAT0 (Data Zero)**, **CMD** и **CLK (CLOCK)** находятся на нижней части платы. **GND (Ground или заземление)** находятся на верхней (корпус слота картриджа). Обратите внимание, что его контактные точкиа очень маленьких размеров. Будьте внимательны и не замкните случайно соседние контакты. 
 
-![]({{ base_path }}/images/ifixit/new2dsxl/new2dsxl_tp.png){:target='_blank'}
+![]({{ base_path }}/3ds/images/ifixit/new2dsxl/new2dsxl_tp.png){:target='_blank'}
 {: .text-center}
 
 {% endcapture %}
